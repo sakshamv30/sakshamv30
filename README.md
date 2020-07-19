@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hi, I'm Saksham Varshney, a machine learining and data science enthusiast🚀, currently working as a Summer Intern 🙍🏽‍♂️  @ ISSA,DRDO and currently CA@bitgrit at IIIT Lucknow.
+Hi, I'm Saksham Varshney, a machine learining and data science enthusiast🚀, currently working as a Summer Intern 🙍🏽‍♂️  @ ISSA,DRDO and currently Campus Ambassador for [bitgrit!](https://bitgrit.net/)
 
 
 Beside's developing stuff, I enjoy listening to Ed Sheeran 🎧 and bake stuff 🏝️.
