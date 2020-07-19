@@ -22,11 +22,12 @@
 Hi, I'm Saksham Varshney, a machine learining and data science enthusiast🚀, currently working as a Summer Intern 🙍🏽‍♂️  @ ISSA,DRDO and currently CA@bitgrit at IIIT Lucknow.
 
 
-Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️🗻.
+Beside's developing stuff, I enjoy listening to Ed Sheeran 🎧 and bake stuff 🏝️.
 
-I would be honest, I once thought I got rabies from a squirrel 🐿️ that ate some of my sandwich 🥪.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/CTX0ivSQbI78A/source.gif" />
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/1d7F9xyq6j7C1ojbC5/giphy.gif" />
+  
 
 
 **Talking about Personal Stuffs/Achievements:**
@@ -53,6 +54,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to write models for Kaggle contests.
 - 👯 I’m looking to collaborate on end-to-end projects on data-modeling and data-visualization
 - 🤔 I’m looking for help with start with a machine learning project.
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I can bake cookies, cakes and pizza.
 
