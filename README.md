@@ -47,6 +47,8 @@ Beside's developing stuff, I enjoy listening to Ed Sheeran ðŸŽ§ and bake stuff ð
 
 ![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=sakshamv30&show_icons=true&hide_border=true)
 
+![](https://komarev.com/ghpvc/?username=saintpopo&color=brightgreen&style=flat)
+
 :pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/GOVINDDIXIT/GOVINDDIXIT)
 Here are some ideas to get you started:
 
