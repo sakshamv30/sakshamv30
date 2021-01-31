@@ -4,7 +4,7 @@
 <a href="https://twitter.com/sakshamv30">
   <img align="left" alt="Saksham Varshney | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/saksham-varshney-668ba557/">
+<a href="https://www.linkedin.com/in/sakshamv30/">
   <img align="left" alt="Saksham's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/___sakshamvarshney/">
@@ -19,10 +19,10 @@
 <br />
 <br />
 
-Hi, I'm Saksham Varshney, a machine learining and data science enthusiast🚀, currently working as a Summer Intern 🙍🏽‍♂️  @ ISSA,DRDO and currently Campus Ambassador for [bitgrit!](https://bitgrit.net/)
+Hi, I'm Saksham Varshney, a machine learining and data science enthusiast🚀, I have worked as a Summer Intern 🙍🏽‍♂️  @ ISSA,DRDO and am currently the Campus Ambassador for [bitgrit!](https://bitgrit.net/)
 
 
-Beside's developing stuff, I enjoy listening to Ed Sheeran 🎧 and bake stuff 🏝️.
+Beside's developing stuff, I enjoy listening to Coldplay 🎧 .
 
 
 
@@ -31,8 +31,10 @@ Beside's developing stuff, I enjoy listening to Ed Sheeran 🎧 and bake stuff �
 
 
 **Talking about Personal Stuffs/Achievements:**
+- 🙌 Worked as a Summer Intern at ISSA, DRDO
 - 🌱 Campus Ambassador for bitgrit at IIIT Lucknow.
-- ⚡️ Co-Ordinator [Equinox](http://equinox-iiitl.tech/) 
+- ⚡️ Coordinator '20 | Convener '21  [Equinox](http://equinox-iiitl.tech/) 
+- 🎪 Lead Organizer [Eduthon](https://eduthon.tech/)
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: sakshamv30@gmail.com
 
@@ -52,9 +54,9 @@ Beside's developing stuff, I enjoy listening to Ed Sheeran 🎧 and bake stuff �
 :pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/GOVINDDIXIT/GOVINDDIXIT)
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on GIS Based Webapp using Openlayers6, Javascript, Jquery etc.
+- 🔭 I’m have worked on GIS Based Webapp using Openlayers6, Javascript, Jquery etc.
 - 🌱 I’m currently learning how to write models for Kaggle contests.
-- 👯 I’m looking to collaborate on end-to-end projects on data-modeling and data-visualization
-- 🤔 I’m looking for help with start with a machine learning project.
+- 👯 Collaborate on end-to-end projects on data-modeling and data-visualization
+- 🤔 I’m looking for summer internship in the summer of 2021. 
 - ⚡ Fun fact: I can bake cookies, cakes and pizza.
 
