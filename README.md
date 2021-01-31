@@ -51,7 +51,7 @@ Beside's developing stuff, I enjoy listening to Coldplay 🎧 .
 
 ![](https://komarev.com/ghpvc/?username=sakshamv30&color=brightgreen&style=flat)
 
-:pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/GOVINDDIXIT/GOVINDDIXIT)
+:pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/sakshamv30/sakshamv30)
 Here are some ideas to get you started:
 
 - 🔭 I’m have worked on GIS Based Webapp using Openlayers6, Javascript, Jquery etc.
