@@ -26,7 +26,7 @@ Beside's developing stuff, I enjoy listening to Coldplay 🎧 .
 
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/1d7F9xyq6j7C1ojbC5/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" />
   
 
 
