@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hi, I'm Saksham Varshney, a machine learining and data science enthusiast🚀, I have worked as a Summer Intern 🙍🏽‍♂️  @ ISSA,DRDO and wa the Campus Ambassador for [bitgrit!](https://bitgrit.net/)
+Hi, I'm Saksham Varshney, a machine learining and data science enthusiast🚀, I have worked as a Summer Intern 🙍🏽‍♂️  @ ISSA,DRDO and was the Campus Ambassador for [bitgrit!](https://bitgrit.net/)
 
 
 Beside's developing stuff, I enjoy listening to Coldplay 🎧 .
@@ -31,6 +31,7 @@ Beside's developing stuff, I enjoy listening to Coldplay 🎧 .
 
 
 **Talking about Personal Stuffs/Achievements:**
+- 🛒 Working as a SDE Intern at Flipkart.
 - 🙌 Worked as a Summer Intern at ISSA, DRDO
 - 🌱 Campus Ambassador for bitgrit at IIIT Lucknow.
 - ⚡️ Coordinator '20 | Convener '21  [Equinox](http://equinox-iiitl.tech/) 
