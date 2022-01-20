@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hi, I'm Saksham Varshney, a machine learining and data science enthusiast🚀, I have worked as a Summer Intern 🙍🏽‍♂️  @ ISSA,DRDO and am currently the Campus Ambassador for [bitgrit!](https://bitgrit.net/)
+Hi, I'm Saksham Varshney, a machine learining and data science enthusiast🚀, I have worked as a Summer Intern 🙍🏽‍♂️  @ ISSA,DRDO and wa the Campus Ambassador for [bitgrit!](https://bitgrit.net/)
 
 
 Beside's developing stuff, I enjoy listening to Coldplay 🎧 .
