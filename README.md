@@ -19,7 +19,11 @@
 <br />
 <br />
 
-Hi, I'm Saksham Varshney, a machine learining and data science enthusiast🚀, I have worked as a Summer Intern 🙍🏽‍♂️  @ ISSA,DRDO and was the Campus Ambassador for [bitgrit!](https://bitgrit.net/)
+With over 2 years of hands-on experience, I excel in React Native and Android development. 
+
+Currently serving as a Software Development Engineer at Flipkart with the App Experience Team(Flipkart App Team), I have adeptly tackled numerous challenges, contributing to impactful solutions. Notable accomplishments include spearheading the Grocery Pod Initiatives like Net Effective Price, DLS Migration, and creating the Flipkart Creators App from scratch. 
+
+These experiences have refined my skills in programming, debugging, testing, and collaborating with cross-functional teams. Always open to networking, collaborations, and engaging discussions – feel free to connect!
 
 
 Beside's developing stuff, I enjoy listening to Coldplay 🎧 .
