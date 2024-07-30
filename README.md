@@ -5,7 +5,7 @@
   <img align="left" alt="Saksham Varshney | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sakshamv30/">
-  <img align="left" alt="Saksham's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Saksham's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/___sakshamvarshney/">
   <img align="left" alt="Saksham's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -26,7 +26,7 @@ Currently serving as a Software Development Engineer at Flipkart with the App Ex
 These experiences have refined my skills in programming, debugging, testing, and collaborating with cross-functional teams. Always open to networking, collaborations, and engaging discussions – feel free to connect!
 
 
-Beside's developing stuff, I enjoy listening to Coldplay 🎧 .
+Besides developing stuff, I enjoy listening to Coldplay 🎧 .
 
 
 
@@ -56,12 +56,11 @@ Beside's developing stuff, I enjoy listening to Coldplay 🎧 .
 
 ![](https://komarev.com/ghpvc/?username=sakshamv30&color=brightgreen&style=flat)
 
-:pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/sakshamv30/sakshamv30)
+:pushpin: I liked this introduction, You can also make similar for yourself. Star and Fork this [README](https://github.com/sakshamv30/sakshamv30)
 Here are some ideas to get you started:
 
-- 🔭 I’m have worked on GIS Based Webapp using Openlayers6, Javascript, Jquery etc.
+- 🔭 I have worked on GIS Based Web app using Openlayers6, Javascript, Jquery, etc.
 - 🌱 I’m currently learning how to write models for Kaggle contests.
-- 👯 Collaborate on end-to-end projects on data-modeling and data-visualization
-- 🤔 I’m looking for summer internship in the summer of 2021. 
-- ⚡ Fun fact: I can bake cookies, cakes and pizza.
+- 👯 Collaborate on end-to-end projects on data modeling and data visualization
+- ⚡ Fun fact: I can bake cookies, cakes, and pizza.
 
