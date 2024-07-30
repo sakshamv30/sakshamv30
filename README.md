@@ -35,7 +35,7 @@ Beside's developing stuff, I enjoy listening to Coldplay 🎧 .
 
 
 **Talking about Personal Stuffs/Achievements:**
-- 🛒 Working as a SDE Intern at Flipkart.
+- 🛒 Working as a Software Development Engineer at Flipkart
 - 🙌 Worked as a Summer Intern at ISSA, DRDO
 - 🌱 Campus Ambassador for bitgrit at IIIT Lucknow.
 - ⚡️ Coordinator '20 | Convener '21  [Equinox](http://equinox-iiitl.tech/) 
